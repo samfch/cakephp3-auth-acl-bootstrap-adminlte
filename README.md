@@ -24,3 +24,40 @@ the setup traffic lights.
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+## Creating tables
+
+To create ACL related tables, run the following Migrations command:
+
+```bash
+bin/cake migrations migrate
+```
+
+## Seeding your database
+
+```bash
+bin/cake migrations seed
+```
+
+## Access
+
+`administrator` role account
+```
+Login: admin
+Password: admin
+```
+
+`manager` role account
+```
+Login: ***
+Password: ***
+```
+
+`user` role account
+```
+Login: client
+Password: client
+
+## Info
+
+Author: Kévin Garrec (@kevingarrec)
