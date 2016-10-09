@@ -1,7 +1,7 @@
 # CakePHP Application Skeleton
 
-[![Build Status](https://api.travis-ci.org/cakephp/app.png)](https://travis-ci.org/cakephp/app)
-[![License](https://poser.pugx.org/cakephp/app/license.svg)](https://packagist.org/packages/cakephp/app)
+This is a fork from [https://github.com/PilOop/cakephp3-auth-acl-bootstrap-adminlte](https://github.com/PilOop/cakephp3-auth-acl-bootstrap-adminlte)
+Work in progress, updating some code.. don't use this fork, as it hasn't finshed yet.. use the original one..
 
 A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.0.
 
