@@ -5,3 +5,4 @@ composer.lock
 /tmp/*
 /logs/*
 /webroot/uploads/*
+/nbproject/private/
